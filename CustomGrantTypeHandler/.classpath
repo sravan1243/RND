@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path="C:/Users/srnethi/development/workspace/current/CustomGrantTypeHandler/lib/amber_0.22.1358727.wso2v5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/srnethi/development/workspace/current/CustomGrantTypeHandler/lib/axis2_1.6.1.wso2v10.jar"/>
+	<classpathentry kind="lib" path="C:/Users/srnethi/development/workspace/current/CustomGrantTypeHandler/lib/commons-codec-1.9.jar"/>
+	<classpathentry kind="lib" path="C:/Users/srnethi/development/workspace/current/CustomGrantTypeHandler/lib/commons-logging-1.0.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/srnethi/development/workspace/current/CustomGrantTypeHandler/lib/javax.ws.rs-api-2.0-m10.jar"/>
+	<classpathentry kind="lib" path="C:/Users/srnethi/development/workspace/current/CustomGrantTypeHandler/lib/jersey-client-1.19.jar"/>
+	<classpathentry kind="lib" path="C:/Users/srnethi/development/workspace/current/CustomGrantTypeHandler/lib/jersey-core-1.19.jar"/>
+	<classpathentry kind="lib" path="C:/Users/srnethi/development/workspace/current/CustomGrantTypeHandler/lib/json.jar"/>
+	<classpathentry kind="lib" path="C:/Users/srnethi/development/workspace/current/CustomGrantTypeHandler/lib/json-simple-1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/srnethi/development/workspace/current/CustomGrantTypeHandler/lib/jsr311-api-1.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/srnethi/development/workspace/current/CustomGrantTypeHandler/lib/org.wso2.carbon.apimgt.api_1.2.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/srnethi/development/workspace/current/CustomGrantTypeHandler/lib/org.wso2.carbon.apimgt.impl_1.2.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/srnethi/development/workspace/current/CustomGrantTypeHandler/lib/org.wso2.carbon.core_4.2.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/srnethi/development/workspace/current/CustomGrantTypeHandler/lib/org.wso2.carbon.identity.base_4.2.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/srnethi/development/workspace/current/CustomGrantTypeHandler/lib/org.wso2.carbon.identity.oauth.stub_4.2.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/srnethi/development/workspace/current/CustomGrantTypeHandler/lib/org.wso2.carbon.identity.oauth_4.2.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/srnethi/development/workspace/current/CustomGrantTypeHandler/lib/org.wso2.carbon.user.api_4.2.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/srnethi/development/workspace/current/CustomGrantTypeHandler/lib/org.wso2.carbon.user.core_4.2.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/srnethi/development/workspace/current/CustomGrantTypeHandler/lib/synapse-core_2.1.2.wso2v7.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
